@@ -6,12 +6,12 @@ mz.unity is an R package for detecting and exploring complex relationships in ac
 For more detailed information please see the forthcoming [publication](#).
 
 ## R Package
-mz.unity is available as an R package on GitHub: [nathaniel-mahieu/mz.unity](https://github.com/nathaniel-mahieu/mz.unity)
+mz.unity is available as an R package on GitHub: [e-stan/mz.unity](https://github.com/nathaniel-mahieu/mz.unity)
 
 ## Installation
 ```r
 #install.packages("devtools")
-devtools::install_github("nathaniel-mahieu/mz.unity")
+devtools::install_github("e-stan/mz.unity")
 ```
 
 ## Usage
